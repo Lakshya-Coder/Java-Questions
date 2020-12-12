@@ -1,0 +1,5 @@
+The Time Complexity is 
+
+O(n)
+
+n is the size of array or string
